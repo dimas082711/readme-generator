@@ -26,7 +26,7 @@ SO THAT I can quickly create a professional README for a new project
 
 
 ## Application video
-[text](https://drive.google.com/file/d/15qZotiwJYh-9h_9N_Tg9UafGVs1HCw88/view)
+[Video Link Click Here](https://drive.google.com/file/d/15qZotiwJYh-9h_9N_Tg9UafGVs1HCw88/view)
  ## _________________________________________________________________________________________________________________________________
 
  # Readme Generator
