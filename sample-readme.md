@@ -13,10 +13,10 @@
 Generates Professional Readme file with the help of npm inquirer package
 
 ## Installation
-To use readme generator you will need to install node package by typing in terminal node instal inquire, after dependencies installed run it by typing node index.js 
+To use readme generator you will have to install npm package by typing in in terminal npm install inquirer, after dependencies installed run it by typing node index.js and answer all prompt questions
 
 ## Usage
-This project is designed to create Professional Readme.md file for your own projects 
+The project is designed to create Professional Readme.md file for your own projects
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-success)
@@ -26,6 +26,6 @@ Dmitriy P.
 
 ## Question
 
-Github Account: [undefined](https://github.com/undefined)
+Github Account: [dimas082711](https://github.com/dimas082711)
 
 My Email Is: dprcontractor@gmail.com
